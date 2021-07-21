@@ -3,4 +3,4 @@
 
 > - [0718](./README/0718.MD) | &nbsp;list&nbsp; / &nbsp;tuple&nbsp; / dict&nbsp; / &nbsp;set - 자료형 정리
 > - [0719](./README/0719.MD) | &nbsp;if&nbsp; / &nbsp;while&nbsp; / for&nbsp; - 제어문 정리
- > - [0720](./README/0720.MD) | 파이썬 함수 정리
+ > - [0720](./README/0720.MD) | &nbsp;파이썬 함수&nbsp; / &nbsp;텍스트 파일 제어 
