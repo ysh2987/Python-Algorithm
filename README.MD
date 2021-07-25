@@ -7,3 +7,4 @@
 > - [0721](./README/0721.MD) | &nbsp;파이썬 클래스&nbsp; / &nbsp;모듈&nbsp; / &nbsp; 패키지 &nbsp; / &nbsp; 예외처리 &nbsp; / &nbsp; 내 / 외장 함수
 > - [0722](./README/0722.MD) | &nbsp;정규표현식&nbsp; 
 > - [0723](./README/0723.MD) | &nbsp;알고리즘&nbsp; 
+> - [0724](./README/0723.MD) | &nbsp;그리디 알고리즘&nbsp; 
