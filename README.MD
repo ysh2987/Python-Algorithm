@@ -8,4 +8,5 @@
 > - [0723](./README/0723.Md) | &nbsp;정규표현식&nbsp; 
 > - [0724](./README/0724.MD) | &nbsp;추가 내용&nbsp; 
 > - [0725](./README/0725.MD) | &nbsp;그리디 알고리즘&nbsp; 
-> - [0726](./README/0726.MD) | &nbsp;그리디 문제&nbsp; 
+> - [0726](./README/0726.MD) | &nbsp;그리디 문제-1&nbsp; 
+> - [0727](./README/0727.MD) | &nbsp;그리디 문제-2&nbsp; 
