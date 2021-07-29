@@ -10,3 +10,4 @@
 > - [0725](./README/0725.MD) | &nbsp;그리디 알고리즘&nbsp; 
 > - [0726](./README/0726.MD) | &nbsp;그리디 문제 - 1&nbsp; 
 > - [0727](./README/0727.MD) | &nbsp;그리디 문제 - 2&nbsp; 
+> - [0728](./README/0728.MD) | &nbsp;그리디 문제 - 3&nbsp; 
